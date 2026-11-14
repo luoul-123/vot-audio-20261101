@@ -1,4 +1,4 @@
-# Voice of Terra · 音频分站 01
+# Voice of Terra · vot-audio-20261101
 
 凯尔希剧情配音静态文件。阅读请前往[主站](https://luoul-123.github.io/voice-of-terra-for-arknights/)。
 
